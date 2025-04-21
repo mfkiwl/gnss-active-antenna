@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GGBTP.35.3.A.40
+D Antennas Terrablast GGBTP.35.3.A.40 GPS L1 35*35*3.72mm Patch Antenna
+K
+F https://www.taoglas.com/datasheets/GGBTP.35.3.A.40.pdf
+$ENDCMP
+#
+#End Doc Library

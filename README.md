@@ -63,7 +63,7 @@
 `docs`: Technical documentation (including user guide and datasheet)
 
 ## License
-This project is open-source under the following license: CERN Open Hardware License v2.0 (CERN‑OHL‑P v2).
+This project is open-source under the following license: <a href="https://cern-ohl.web.cern.ch/home">CERN Open Hardware License v2.0</a> (CERN‑OHL‑P v2).  
 
 ## Releases
 

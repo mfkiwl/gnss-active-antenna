@@ -3249,7 +3249,7 @@
 				)
 			)
 		)
-		(property "Value" "6.8 nH"
+		(property "Value" "6.2 nH"
 			(at 99.06 48.26 90)
 			(effects
 				(font
@@ -3317,7 +3317,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33 pF"
+		(property "Value" "33 nF"
 			(at 190.5 71.1199 0)
 			(effects
 				(font
@@ -3577,24 +3577,23 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "223636e1-7f1c-46ef-ab0c-92a145a29703")
 		(property "Reference" "C4"
-			(at 101.6 144.7799 0)
+			(at 101.854 148.844 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "470 pF"
-			(at 101.6 147.3199 0)
+		(property "Value" "33 nF"
+			(at 107.442 149.352 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
@@ -4369,7 +4368,7 @@
 				)
 			)
 		)
-		(property "Value" "100 pF"
+		(property "Value" "24 pF"
 			(at 229.87 49.53 90)
 			(effects
 				(font
@@ -4614,7 +4613,7 @@
 		(dnp no)
 		(uuid "99a44c12-d9c0-4935-9ad9-eae00bef99a9")
 		(property "Reference" "C5"
-			(at 113.03 144.7799 0)
+			(at 116.078 142.494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4622,8 +4621,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2 uF"
-			(at 113.03 147.3199 0)
+		(property "Value" "10 uF"
+			(at 125.222 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5301,7 +5300,7 @@
 				)
 			)
 		)
-		(property "Value" "470pF"
+		(property "Value" "24pF"
 			(at 86.36 45.72 90)
 			(effects
 				(font

@@ -40,7 +40,7 @@
 </details>
 
 ## Overview
-​The GNSS Active Antenna project consists of developing an active antenna for the L1 band (1.565GHz), integrating a low noise amplifier (LNA) powered by a voltage regulator that converts 5V to 3.3V, with the power being injected into the coaxial line through a bias tee circuit.​ For the selection of components, the study project that appears in [[1]](#1) was used as a reference.
+​The GNSS Active Antenna project consists of developing an active antenna for the L1 band (1.565GHz), integrating a low noise amplifier (LNA) powered by 3.3V via picoblade connector.​ For the selection of components, the study project that appears in [[1]](#1) was used as a reference.
 <!-- 
 <p align="center">
     <img src="https://github.com/spacelab-ufsc/gnss-active-antenna/blob/main/docs/pictures/gnss-active-antenna-top.svg" width="400"><img src="https://github.com/spacelab-ufsc/gnss-active-antenna/blob/main/docs/pictures/gnss-active-antenna-bottom.svg" width="400">

@@ -1,7 +1,0 @@
-### Footprint positions - created on 2025-05-07T08:13:18-0300 ###
-### Printed by KiCad version 9.0.0
-## Unit = mm, Angle = deg.
-## Side : top
-# Ref     Val              Package                PosX       PosY       Rot  Side
-ANT1      GGBTP.35.3.A.40  GGBTP353A40         78.7201   -81.0645  -90.0000  top
-## End

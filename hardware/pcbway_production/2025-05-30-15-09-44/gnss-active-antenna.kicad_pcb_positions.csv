@@ -1,0 +1,9 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+78.720104,-81.064532,-90.0,top,ANT1,GGBTP.35.3.A.40,,GGBTP353A40,GGBTP.35.3.A.40,tht
+81.740104,-81.054532,0.0,bottom,C1,,,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,24pF,smt
+88.324773,-78.562334,90.0,bottom,C6,,,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,33 nF,smt
+86.197604,-80.494532,90.0,bottom,H5,,None,Wuerth_36103205_20x20mm,WE-SHC_ONE-PIECE,smt
+101.597604,-80.504532,-90.0,bottom,J1,,None,LINX_CONMCX002-SMD,CONMCX002-SMD,smt
+86.274773,-64.612334,0.0,bottom,J2,,,Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal,Conn_01x04_Pin,smt
+85.000104,-81.054532,0.0,bottom,L1,,,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,6.2 nH,smt
+88.812769,-80.744532,90.0,bottom,U1,,,21-0147-L611,MAX2659ELT+T,smt
